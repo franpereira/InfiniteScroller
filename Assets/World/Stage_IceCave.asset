@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7125ce71a43198e49bfc4285fdd93655, type: 3}
+  m_Name: Stage_IceCave
+  m_EditorClassIdentifier: 
+  PlatformPrefabs:
+  - {fileID: 430257982873764837, guid: 11b6a4045564bc84b83dfa5b41c19fe8, type: 3}
+  FarBackgrounds:
+  - {fileID: 6767514591409481729, guid: 92d7458a03477b5458392671d53a56ce, type: 3}
+  - {fileID: 6767514591409481729, guid: 92d7458a03477b5458392671d53a56ce, type: 3}
+  NearBackgrounds: []
+  Cluttering:
+  - {fileID: 11400000, guid: c46ac98d588c03f4eb42a145ca221140, type: 2}
